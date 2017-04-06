@@ -1,0 +1,2 @@
+# rh7_server_5_heimdal_testing
+Artifacts to include for rh7_server_5_heimdal_testing job
