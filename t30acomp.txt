@@ -1,1 +1,1 @@
-builtin hdb backends: ldap:, lmdb:, keytab:, sqlite:
+builtin hdb backends: mdb:, lmdb:, keytab:, ldap:, ldapi:, sqlite:
